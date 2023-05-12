@@ -3,3 +3,6 @@
 bin/
 target/
 .classpath
+.tycho-consumer-pom.xml
+/updates/
+/build.log
